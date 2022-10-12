@@ -4,7 +4,8 @@
     "keywords": [
         "framework",
         "laravel",
-        "wordpress"
+        "wordpress",
+        "wp"
     ],
     "license": "MIT",
     "homepage": "https://github.com/wllionel/contracts",
