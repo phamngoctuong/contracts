@@ -1,5 +1,5 @@
 {
-    "name": "laraish/contracts",
+    "name": "wllionel/contracts",
     "description": "The Laraish Contracts package.",
     "keywords": [
         "framework",
@@ -7,15 +7,15 @@
         "wordpress"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/laraish/contracts",
+    "homepage": "https://github.com/wllionel/contracts",
     "support": {
-        "issues": "https://github.com/laraish/contracts/issues",
-        "source": "https://github.com/laraish/contracts"
+        "issues": "https://github.com/wllionel/contracts/issues",
+        "source": "https://github.com/wllionel/contracts"
     },
     "authors": [
         {
-            "name": "yaquawa",
-            "email": "yaquawa@gmail.com"
+            "name": "Lionel Pham",
+            "email": "phamngoctuong1805@gmail.com"
         }
     ],
     "require": {
